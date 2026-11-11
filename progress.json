@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:32:19.514Z",
+  "generated_at": "2026-11-11T05:43:02.259Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -50,6 +50,19 @@
       "path": "problems/0004-calculate-mean-by-row-or-column",
       "first_solved_at": "2026-11-11T05:32:16.314Z",
       "last_pushed_at": "2026-11-11T05:32:16.314Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-11-11T05:43:01.672Z",
+      "last_pushed_at": "2026-11-11T05:43:01.672Z",
       "language": "python",
       "lines": 13
     }
